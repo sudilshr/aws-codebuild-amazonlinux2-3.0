@@ -1,1 +1,2 @@
-# aws-codebuild-amazonlinux2-x86_64-standard-3.0
+# AWS CodeBuild Docker image 
+- amazonlinux2-x86_64-standard:3.0
